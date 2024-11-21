@@ -1,1 +1,2 @@
 # HospitalManagementsystem.
+Author - Reshma Hegde
