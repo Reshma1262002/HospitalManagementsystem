@@ -1,2 +1,2 @@
 # HospitalManagementsystem
-Author - Reshma Hegde
+Author - Reshma Manjunath Hegde
